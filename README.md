@@ -86,7 +86,3 @@ To run the analysis, simply execute the notebook `iPhone Data Analysis Mini Proj
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
